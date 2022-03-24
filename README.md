@@ -1,4 +1,4 @@
-# dropcy
+# Dropcy
 CS 315 Programming Languages project
 "Dropcy" is a programming language we designed to control drones spraying pesticides
 
